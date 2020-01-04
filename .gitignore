@@ -1,0 +1,11 @@
+*.eggs/
+*.tox/
+*.o
+*.gch
+*.dylib
+*.so
+*.pyc
+*_test
+build/*
+_xxh3_cffi.*
+dist/
